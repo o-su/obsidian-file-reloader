@@ -1,8 +1,8 @@
 {
-	"id": "obsidian-reloader",
-	"name": "Obsidian Reloader",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Obsidian file reloader",
-	"isDesktopOnly": false
+  "id": "obsidian-reloader",
+  "name": "Obsidian Reloader",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Obsidian file reloader",
+  "isDesktopOnly": false
 }
