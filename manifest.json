@@ -3,6 +3,7 @@
   "name": "Obsidian Reloader",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
-  "description": "Obsidian file reloader",
+  "author": "o-su",
+  "description": "Reloads obsidian view after detecting changes on the network drive.",
   "isDesktopOnly": false
 }
